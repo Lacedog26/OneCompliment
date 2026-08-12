@@ -1,7 +1,7 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": null,
-  "installCommand": "cd bills-pregame-dashboard && npm install",
-  "buildCommand": "cd bills-pregame-dashboard && npm run build",
-  "outputDirectory": "bills-pregame-dashboard/dist"
+  "installCommand": "cd OneCompliment-site && npm install",
+  "buildCommand": "cd OneCompliment-site && npm run build",
+  "outputDirectory": "OneCompliment-site/dist"
 }
